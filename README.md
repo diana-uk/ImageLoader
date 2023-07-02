@@ -1,6 +1,4 @@
-Sure! Here's a sample README file for the given code:
 
-```markdown
 # ImageLoader
 
 ImageLoader is a utility class that provides functionality for loading and caching images from URLs. It supports applying various image transformations using the ImageOptions class.
